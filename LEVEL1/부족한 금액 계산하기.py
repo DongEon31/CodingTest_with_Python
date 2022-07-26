@@ -1,4 +1,4 @@
-## 부족한 금액 계산하기 - 위클리 챌린지
+## 부족한 금액 계산하기 - 위클리 챌린지 
 ## https://school.programmers.co.kr/learn/courses/30/lessons/82612
 
 def solution(price, money, count):
