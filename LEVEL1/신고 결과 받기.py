@@ -1,4 +1,4 @@
-## 신고 결과 받기 - 2022 KAKAO BLIND
+## 신고 결과 받기 - 2022 KAKAO BLIND 
 ## https://school.programmers.co.kr/learn/courses/30/lessons/92334
 
 from collections import defaultdict # 각 index에 값을 미리 할당하지 않아도 된다 !!
