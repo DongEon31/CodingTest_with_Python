@@ -1,4 +1,4 @@
-## 신규 아이디 추천 - 2021 KAKAO BLIND RECRUITMENT 
+## 신규 아이디 추천 - 2021 KAKAO BLIND RECRUITMENT  
 ## https://school.programmers.co.kr/learn/courses/30/lessons/72410
 
 def solution(new_id):
