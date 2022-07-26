@@ -1,4 +1,4 @@
-## 괄호 변환 - 2020 KAKAO BLIND RECRUITMENT
+## 괄호 변환 - 2020 KAKAO BLIND RECRUITMENT  
 ## https://school.programmers.co.kr/learn/courses/30/lessons/60058
 
 def solution(p):
