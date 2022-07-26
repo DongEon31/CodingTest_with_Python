@@ -1,7 +1,7 @@
 ## 체육복
 ## https://school.programmers.co.kr/learn/courses/30/lessons/42862
 
-def solution(n, lost, reserve):
+def solution(n, lost, reserve): 
     # 잃어버리고, 여벌옷이 있는 사람은 자신이 입게 된다. lost, reserve 중복값 제거.
     _reserve = [r for r in reserve if r not in lost]
     _lost = [l for l in lost if l not in reserve]
