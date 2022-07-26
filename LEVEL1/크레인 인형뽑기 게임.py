@@ -3,7 +3,7 @@
 
 def solution(board, moves):
     answer = 0    
-    basket = [] 
+    basket = []  
     for m in moves:
         for row in board: # 맨 위에서부터 탐색
             if row[m-1] == 0 : # 인형이 없는 경우
