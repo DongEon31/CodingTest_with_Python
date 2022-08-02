@@ -1,6 +1,6 @@
 # :star2: Coding Test with Python
 
-### Topic : 🕹️ Any Games
+### :notebook_with_decorative_cover: Problem Solving
 #### I recorded the problems solved with Python.
 
 ***
@@ -16,5 +16,5 @@
 
 ***
 
-### :key: My Blogs posts with codes :key: 
+### :key: My Blog posts with codes :key: 
 [Link](https://coding-archive31.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
